@@ -1,0 +1,23 @@
+
+.carousel-item{
+    width: 1400px;
+    height: 400px;
+
+}
+.navbar{
+    color: white;
+    
+    opacity: 0.8; 
+}
+.container-fluid-login{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.row-emp-login{
+    color: rgba(32, 32, 167, 0.692);
+}
+
+.col-sm-6{
+    background-color: rgba(237, 246, 255, 0.979);
+    
+}
